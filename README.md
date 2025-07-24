@@ -1,7 +1,5 @@
 # Aave V2 Wallet Credit Scoring System
 
-![Credit Score Distribution](reports/score_distribution.png)
-
 ## Overview
 
 This system provides credit scores (0-1000) for Aave V2 wallets based on their transaction behavior patterns. The scores help identify:
